@@ -4,6 +4,10 @@ Tines danske podcast om ledelse, teams og motivation.
 Undertitel: *Ledelse, teams og motivation – fra bøgerne til mandag morgen.*
 
 ## Sådan laves et afsnit
+- **Fast regel (Tine, 6. nov. 2026) – hver gang et afsnit laves:**
+  1. Kildefilen får et beskrivende navn: `afsnit-NN/Fordybelsestimen-NN-<Emne-med-bindestreger>.md`.
+  2. Skriv en skræddersyet NotebookLM-instruktion til afsnittet, tilføj den i `NotebookLM-instruktioner.md`, og vis den i chatten, klar til at kopiere.
+  3. Send kildefilen til download i chatten.
 - Claude skriver én kildefil pr. afsnit (ca. 9.000 ord, tre kapitler), en instruktion og en shownotes-fil med hele kildelisten.
 - Tine laver lyden i NotebookLM: upload kildefilen, Studio → Lydoversigt → blyant ("Tilpas"): Dybdegående samtale, dansk, længde Standard (dansk har kun Kort/Standard), og instruktionen i tekstfeltet.
 - Mål: ca. 45 min som **én** lydfil. Bliver den for kort: lav kapitlerne (`dele/`) hver for sig og sæt dem sammen (ffmpeg).
