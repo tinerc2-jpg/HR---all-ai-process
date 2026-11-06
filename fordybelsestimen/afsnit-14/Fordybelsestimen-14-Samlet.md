@@ -56,73 +56,201 @@ Udall og Lencioni ser forskelligt på møder, men de er enige om én ting: **Et 
 
 ---
 
-# Kapitel 2: Dr. Nick Udall – kreativitet og kunsten at holde rummet
+# Kapitel 2: Dr. Nick Udall og nowhere – kunsten at holde rummet
 
-### 5. Hvem er Nick Udall?
+### 5. Hvem er Nick Udall – og hvad er nowhere?
 
-**Dr. Nick Udall** er britisk ledelsesrådgiver og medstifter og direktør (CEO) i **nowhere**, et firma, der arbejder med kreativitet, innovation og ledelse i store virksomheder. Han har i mere end to årtier arbejdet tæt sammen med topledere og direktioner i globale virksomheder.
+**Dr. Nick Udall** er britisk ledelsesrådgiver og direktør (CEO) i **nowhere**. Firmaet blev grundlagt i midten af 1990'erne – ifølge firmaets egen historie startede det i 1996 med ti kreative ledere, der arbejdede med forandringer i store britiske multinationale virksomheder. En gruppe på "seks plus én" medstiftere med vidt forskellige baggrunde – både moderne fag og gamle visdomstraditioner – byggede derefter en praksis-baseret organisation.
 
-Han har været formand for **World Economic Forums** globale råd om **nye ledelsesmodeller** (Global Agenda Council on New Models of Leadership).
+nowhere var fra starten **skjult og nomadisk**: ingen kontorer, arbejde bag kulisserne. Firmaet har ifølge sit eget materiale arbejdet i over 60 lande og har teams på seks kontinenter. Kunderne er især store, komplekse virksomheder og regeringsinstitutioner i brancher under forandring: energiomstillingen, fødevaresikkerhed, medicinalindustrien, store tech-virksomheder, finans, bæredygtighed og forsvar. Firmaet har blandt andet arbejdet med Jack Ma og Alibaba i Kina.
 
-Han har skrevet bogen **"Riding the Creative Rollercoaster"** (2014) om, hvordan ledere kan fremme kreativitet, produktivitet og innovation, og en række artikler, blandt andet **"The unmet, meta-need of organisations"** (2017), **"Holding Space – the high art of leadership"** (2018) og **"Transforming the way we meet"**.
+Udall var stiftende medlem og senere formand for **World Economic Forums Global Agenda Council on New Models of Leadership**. Han udgav i 2014 bogen **"Riding the Creative Rollercoaster: How Leaders Evoke Creativity, Productivity and Innovation"** (Kogan Page). nowhere udgav allerede i 2008 bogen **"The Way of nowhere – 8 questions for releasing creative potential"** (HarperCollins), som kunne læses fra begge ender: den ene om organisationens kreative potentiale, den anden om ens eget.
 
-Han har udviklet modeller, han kalder **the creative rollercoaster**, **flow of leadership** og **pattern-based thinking**.
+Til værterne: Det, der står om nowhere og Udall i dette kapitel, kommer fra **nowheres egne publikationer**: bogen *the HUM – Celebrating 25 years of nowhere*, brochuren om firmaet, beskrivelserne af deres træningsforløb (*Catalyst Curriculum* og *Breakthrough Dojo*) og brochuren *Catalytic conferences, workshops & meetings*. Det er firmaets egen beskrivelse af sin praksis – ikke uafhængig forskning. Sig det.
 
-### 6. Møder er der, hvor vi tænker sammen
+### 6. Den katalytiske praksis
 
-Udalls grundtanke om møder er enkel: **Møder handler om, hvordan vi kommer sammen for at tænke sammen.**
+Kernen i nowheres arbejde er det, de kalder en **katalytisk praksis** – *catalytic practice*.
 
-Han formulerer det sådan: *"Great meetings are the marriage of great content with great human process"* – gode møder er ægteskabet mellem godt indhold og en god menneskelig proces.
+De kalder den **katalytisk**, fordi den ifølge dem skal:
+- sætte farten op på forandring i menneskelige systemer,
+- løfte energien i teams, så de kan arbejde på et højere niveau,
+- sænke "aktiveringsenergien" for forandring – mere forandring for mindre energi og mindre modstand,
+- og forandre den måde, vi arbejder, leder og **mødes** på.
 
-De fleste organisationer bruger meget tid på indholdet: slides, data, beslutningsoplæg. De bruger næsten ingen tid på processen: Hvordan kommer vi i gang? Hvordan sikrer vi, at alle tænker med? Hvordan håndterer vi energien, når den falder? Hvordan kommer vi fra mange idéer til én beslutning?
+Og de kalder den en **praksis**, fordi den skal **øves** – ligesom en kampsport. Den bygger muskler over tid, virker med det samme, men bliver stærkere med træning. Deres træningsakademi hedder derfor en **dojo** – det japanske ord for et træningsrum i kampsport – eller *praxeum*.
 
-Udall peger på, at **energien i et møde stiger og falder**, og at det er lederens opgave at være opmærksom på det – ikke bare at køre dagsordenen igennem.
+### 7. Loftet: Når travlhed forveksles med produktivitet
 
-### 7. The creative rollercoaster
+Udalls diagnose af moderne organisationer er skarp. I firmaets materiale beskriver han et **kulturelt loft**, som mange virksomheder har ramt. Den gamle præstationsmodel – **push, push, push** – forveksler travlhed med produktivitet, sætter vores helbred op mod vores præstation og kvæler kreativiteten.
 
-Udalls model for den kreative proces kalder han **the creative rollercoaster** – den kreative rutsjebane. Den beskriver, hvordan nye idéer opstår:
+Man kan ikke bryde loftet ved at gøre mere af det samme, bare lidt bedre. Og man kan heller ikke bare arbejde hårdere og længere – det kan folk ikke.
 
-1. **Indsigt** – en første fornemmelse af et problem eller en mulighed.
-2. **Research** – man undersøger, hvad der allerede er kendt.
-3. **Inkubation** – en periode, hvor idéen modnes, ofte uden at man arbejder bevidst med den. Det kan føles som at stå stille eller være forvirret.
-4. **Gennembrud** – den nye idé eller løsning viser sig.
-5. **Test** – idéen afprøves i virkeligheden.
+nowhere stiller kulturer op i par, som en slags spejl. Er jeres kultur for eksempel:
+- **tidsfattig** – forveksler travlhed med produktivitet – eller **tidsrig**?
+- **usikker** – farligt at sige fra – eller **tryg** – let at udfordre alle, også lederen?
+- **fragmenteret** – styret af fyrstedømmer og politik – eller **integrerende**?
+- drevet af **ineffektive møder** – dagsorden og præsentationer – eller drevet af **gode møder** – bevidste input, dyb lytning, mønstergenkendelse og flow?
 
-Udall beskriver kreativitet som en **dans mellem det kendte og det ukendte**. Man skal både kunne holde fast i det, man ved, og turde gå ind i det, man ikke ved endnu.
+### 8. Holding space – fra at fylde rummet til at holde det
 
-Pointen for ledere er, at **inkubationen og forvirringen er en del af processen**. Et møde, der presser på for en hurtig beslutning, kan skære den kreative proces over, før gennembruddet kommer. Og et team, der aldrig får lov til at være forvirret sammen, får sjældent nye idéer.
+Udalls mest centrale begreb er **"holding space"** – at holde rummet. I nowheres materiale formuleres det sådan:
 
-### 8. Holding space – lederens fornemste opgave
+> *"Great leadership is a movement from taking up space to beautifully holding space."*
+> Stor ledelse er en bevægelse fra at fylde rummet op til smukt at holde det.
 
-Udalls måske vigtigste begreb er **"holding space"** – at holde rummet. I artiklen **"Holding Space – the high art of leadership"** (2018) beskriver han det som den højeste form for ledelse.
+Argumentet er:
+- Problemerne er blevet så komplekse, sammenfiltrede og digitale, at **ingen enkeltperson** – hverken i et team, en virksomhed eller en regering – kan have al information, se alle advarselstegn eller finde den bedste løsning.
+- Derfor skal lederen **træde ud af midten og ud til kanten** – "step out of the middle and move to the edge".
+- Fra kanten skal lederen skabe rum, der føles **holdte, meningsfulde og ladet med energi**, så folk bliver kaldt frem til at gøre ting, de aldrig troede, de kunne.
+- Rummene skal være **stærke nok** til at rumme den usikkerhed og de følelser, der opstår, når man udfordrer status quo – og **trygge nok** til, at man kan sige sandheden.
+- Og de skal have **stilhed** nok til at fange de flygtige glimt af det nye.
 
-At holde rummet betyder, at lederen skaber og beskytter et rum, hvor **forskellige mennesker kan mødes, tænke sammen og skabe noget nyt** – i stedet for at styre gennem hierarki, kommando og kontrol.
+En af de ledere, der har været igennem nowheres forløb, siger i firmaets materiale: *"By holding the silence, I created the conditions for more honest and courageous dialogue."* – Ved at holde stilheden skabte jeg betingelserne for en mere ærlig og modig dialog. En anden: *"I used to think showing leadership meant speaking up. Now I know it often means listening first."*
 
-Det kræver blandt andet, at lederen:
-- er **til stede** og opmærksom – ikke bare på indholdet, men på menneskene og energien,
-- kan **tåle usikkerhed** – ikke skynder sig at give svaret, når gruppen er forvirret,
-- giver **plads til forskellighed** – også til de stemmer, der normalt ikke bliver hørt,
-- **beskytter rummet** mod forstyrrelser, dominans og frygt.
+Det kobler direkte til **Amy Edmondsons** forskning i psykologisk tryghed (fra 1999 og frem). Men Udall går et skridt videre: Han taler ikke kun om tryghed, men om **energi** og om at **tåle det ukendte**.
 
-Det kobler direkte til **Amy Edmondsons** forskning i **psykologisk tryghed** (fra 1999 og frem): Et rum, hvor det er sikkert at tænke højt, stille spørgsmål og være uenig.
+I nowheres lille bog **"The Way of the Catalyst"** står der en sætning, der rammer kernen: Praksis udfordrer dig til at møde fuldt op og arbejde på din kant – *"and yet, at the same time, it's not about you or your brilliance; rather it's about how you help everyone else around you shine."* Det handler ikke om dig og din briljans, men om, hvordan du hjælper alle andre omkring dig til at skinne.
 
-### 9. Organisationens ubesvarede behov
+Til værterne: Det kobler til et senere afsnit i serien, "Det hele handler ikke om dig" (Niels Overgaard).
 
-I artiklen **"The unmet, meta-need of organisations"** (2017) argumenterer Udall for, at organisationer har et grundlæggende behov, som sjældent bliver mødt: et behov for steder og processer, hvor mennesker på tværs af faggrænser og niveauer kan tænke sammen om de store spørgsmål.
+### 9. The creative rollercoaster – dansen mellem det kendte og det ukendte
 
-Til værterne: Brug dette som pointe, men opfind ikke flere detaljer fra artiklen.
+Udalls model for kreativitet hedder **the creative rollercoaster** – den kreative rutsjebane. I nowheres materiale beskrives faserne som:
+
+1. **Første indsigt** – en fornemmelse af noget nyt.
+2. **Mætning** – man fylder sig med det, der allerede er kendt.
+3. **Inkubation** – idéen modnes. Det kan føles som stilstand eller forvirring.
+4. **Illumination** – gennembruddet.
+5. **Validering** – idéen afprøves.
+
+Til værterne: Faserne minder om den klassiske model fra den britiske psykolog **Graham Wallas** i bogen *The Art of Thought* (1926): forberedelse, inkubation, illumination og verifikation. Det kan nævnes som baggrund.
+
+Udalls pointe er, at **kreativitet er en dans mellem det kendte og det ukendte**. I bogen om nowheres 25 år står der, at det er vores **vilje til ikke at vide**, der skaber plads til, at det nye kan opstå. At træde ind i det ukendte – og blive der uden at gå i panik, længe nok til at det nye kan vise sig – kræver, at man først samler sin egen energi og derefter de andres. Og de fleste teams ved ikke, hvordan man gør det.
+
+Han peger også på et særligt problem i topledelser: at **talent og ego udligner hinanden**, så mange ledergrupper fungerer som **mindre end summen af deres dele**. Det er præcis Lencionis pointe fra afsnit 1 om status og ego.
+
+### 9b. "The Secret Source" – fra forskellighed til gennembrud
+
+At ride rutsjebanen alene er svært nok. At gøre det sammen med andre er sværere, skriver nowhere i "The Way of the Catalyst" – fordi der nu er mange flere frygte, usikkerheder og forsvarsmekanismer i spil. Derfor har de en model, de kalder **"the Secret Source"** – fire trædesten til at bruge gruppens samlede kreativitet:
+
+1. **Forskellighed** – at kunne se, værdsætte og bevæge sig hen imod forskellighed, også sin egen.
+2. **Krydsfelt** – at sætte forskelligheden i kreativ relation, så man arbejder i mellemrummene. Det er ifølge nowhere det, de fleste overser.
+3. **Spænding** – at holde den kreative og følelsesmæssige spænding, der kommer, når man træder ind i det ukendte.
+4. **Gennembrud** – at fange de øjeblikke af indsigt, der flytter tænkningen, så man ikke kan tænke som før.
+
+nowhere peger også på, at antallet af mulige forbindelser i en gruppe vokser eksponentielt med antallet af mennesker – n gange (n minus 1) divideret med 2. Kunsten er at **øge antallet af kreative forbindelser** mellem folk i stedet for at lade al kommunikation gå gennem lederen.
+
+Det er samme pointe som **Anita Woolleys** forskning i lige taletid – og som **Phil Jacksons** trekantsangreb nedenfor.
 
 ### 10. Fra sportens verden: Phil Jackson og stilheden
 
-Det bedste sportseksempel på "at holde rummet" er basketballtræneren **Phil Jackson**, der vandt 11 NBA-mesterskaber som træner for Chicago Bulls og Los Angeles Lakers.
+Det bedste sportseksempel på at holde rummet er basketballtræneren **Phil Jackson**, der vandt 11 NBA-mesterskaber som træner for Chicago Bulls og Los Angeles Lakers.
 
 I bøgerne **"Sacred Hoops"** (1995) og **"Eleven Rings"** (2013) beskriver han, hvordan han brugte meditation, stilhed og opmærksomhed med sine spillere – også superstjerner som Michael Jordan og Kobe Bryant. Han så sin rolle som at skabe et rum, hvor spillerne kunne være til stede, stole på hinanden og spille som et hold, i stedet for at styre hvert træk.
 
-Han brugte også et spilsystem – **trekantsangrebet** – der fordelte bolden og beslutningerne mellem alle fem spillere i stedet for kun stjernerne. Det er præcis Woolleys pointe om lige taletid – oversat til basketball.
+Hans spilsystem – **trekantsangrebet** – fordelte bolden og beslutningerne mellem alle fem spillere i stedet for kun stjernerne. Det er Udalls "step out of the middle", oversat til basketball.
 
 ---
 
 # Kapitel 3: Strukturerede møder i praksis
+
+### 10b. Meeting Craft® – Udalls mødehåndværk
+
+Det, nowhere kalder sit **"check mate move"** – skakmat-trækket – er at forandre den måde, vi mødes på. De kalder metoden **Meeting Craft®**.
+
+Deres udgangspunkt er, at de fleste organisationer er fanget i en **kollektiv trance** af dårlige mødevaner, som alle accepterer, fordi "sådan er det bare". Og de beskriver møder på fem måder:
+- Møder er der, hvor vi **tænker og bevæger os sammen**.
+- Møder er **styresystemet** for effektive teams.
+- Møder er **den scene**, hvor en leder udøver sit håndværk.
+- Møder er **et mikrokosmos af hele kulturen**.
+- Derfor er møder **den trojanske hest**: Ved at ændre møderne ændrer man på én gang ledere, teams, kultur og arbejdsformer.
+
+En leder fra en life science-virksomhed siger det i nowheres materiale sådan: *"I started this journey thinking we were fixing meetings. But by the end, I realised we were actually prototyping culture."* – Jeg troede, vi var ved at reparere møder. Men til sidst gik det op for mig, at vi var ved at prototype en ny kultur.
+
+**Hvad Meeting Craft® består af** – ifølge nowheres beskrivelse:
+1. **En enkel kode for mødets begyndelse og afslutning** – og for mødets midte med fire forskellige par af input og udveksling.
+2. **Forskellige typer arbejde kræver forskellige typer tænkning – og dermed forskellige typer møder.** Man skal bruge **tid, rum, energi og information** forskelligt alt efter, hvad mødet skal skabe.
+3. **Mikrofærdigheder** – *micro-skills* – små, konkrete menneskelige greb, der gør koden levende i hverdagens møder. Et eksempel er **check-in**: at starte og slutte møder godt ved at sætte farten ned, blive til stede og stemme ind på hinanden.
+
+Ifølge brochuren *meeting craft®* er der **16 mikrofærdigheder**. To af dem er:
+- **Check-In** – at starte og slutte møder godt ved at sætte farten ned, blive til stede og stemme ind på hinanden.
+- **Set Context** – at få alle på samme side i begyndelsen af mødet.
+
+**Fire mødetyper med hver sin farve.** nowhere arbejder med fire typer møder, der har hver sin farve: **grøn, blå, sort og gul** (og i de videregående kurser også **orange**). Pointen er, at forskellige slags arbejde kræver forskellige slags tænkning – og derfor forskellige møder. En deltager siger i materialet: *"There are 4 types of meetings that are presented with different colours … This is a very powerful insight that allows me to prepare and conduct way more productive meetings."* Deltagerne bruger også et værktøj, de kalder **Meeting Designer**, til at designe møder ud fra, hvilket resultat de skal give. Selve mødekoden kaldes af deltagerne **"bixe"**.
+
+Til værterne: nowhere beskriver ikke offentligt, hvad de fire farver præcist står for, eller hvad de fire par af input og udveksling er. Opfind det ikke – sig, at det er en del af deres træning.
+
+### 10b-2. Kvalitets-svinghjulet
+
+Meeting Craft bygger ifølge nowhere på et **svinghjul** med fire led, der forstærker hinanden:
+
+1. **Energi** – kvaliteten af din energi, så du kan være til stede, autentisk og jordforbundet i mødet. *"Don't pass go until you have attended to this."*
+2. **Relationer** – dybere tillid, kontakt og psykologisk tryghed.
+3. **At tænke sammen** – at tænke nye tanker sammen og se muligheder, mønstre og veje, man ikke kunne se før.
+4. **Bevægelse** – mere elegante, afstemte og tilpassede næste skridt – *"moving like a flock of birds"*, som en flok fugle.
+
+Jo lysere energien er, jo dybere bliver relationerne. Jo dybere relationerne er, jo bedre tænker man sammen. Og jo bedre man tænker sammen, jo mere elegant bevæger man sig. Men svinghjulet skal have et skub **hver gang** man mødes. Ellers sker det modsatte: Energien drænes, trygheden eroderer, mødet bliver transaktionelt – og så bliver det, nowhere kalder **"meningsping-pong"**: gamle tanker, der gentages, fastlåste positioner, cirkulære samtaler og hensyn til interessenter. *"This is not thinking together!"*
+
+### 10b-3. Ikke færre møder – bedre møder
+
+Her adskiller nowhere sig markant fra mange andre. De skriver, at **færre møder, kortere møder eller mødefri fredage ikke er svaret.** Møder er ifølge dem *"a contact sport"* – en kontaktsport. Når de er bedst, er de et møde mellem hjerner, hvor ny tænkning opstår i rummet mellem os. Når de er værst, er de kampe og forhandlinger, der dræner organisationen. Udfordringen er derfor ikke at minimere møderne, men at **maksimere** dem.
+
+Og om kunstig intelligens: AI kan hjælpe i kanten – med transskriptioner, referater og dagsordener. Men som nowhere skriver: *"Smarter, poor meetings are still poor meetings."* Smartere dårlige møder er stadig dårlige møder.
+
+Til værterne: Det er en god diskussion. Steven Rogelberg (kapitel 1) anbefaler blandt andet kortere møder og færre deltagere. nowhere siger, at det ikke er nok. Begge dele kan være rigtige – tal om det.
+
+### 10b-4. De ti største mødeproblemer – og nogle tal
+
+nowhere har lavet en liste over de **ti største mødeproblemer**, de ser hos deres kunder: uproduktiv brug af tid; dårlige vaner og manglende disciplin; at man ikke ved, hvorfor man mødes; mangel på psykologisk tryghed; for mange deltagere; for meget interessenthåndtering og forberedelseshysteri; dårlige input, der giver dårlig tænkning; at man sidder fast i en dagsordenstankegang; dårlig mødeledelse; og at dårlige møder fører til flere dårlige møder.
+
+De samler også en række tal fra blandt andet **Steven Rogelbergs** bog og artikler i **Harvard Business Review** – for eksempel at **63 procent af møder ikke har et klart formål**, at **møder starter for sent halvdelen af gangene**, og at **over halvdelen af møderne har to eller flere unødvendige deltagere**, inviteret for at være inkluderende. De anslår, at dårlige møder koster **400 milliarder dollars i USA og 3.500 milliarder dollars globalt** om året.
+
+Til værterne: Tallene er nowheres egen sammenstilling fra flere kilder. Sig det, og brug dem som illustration, ikke som præcise fakta.
+
+### 10b-5. Et eksperiment
+
+nowhere skriver selv, at de vil forstå **årsag og ikke bare sammenhæng** – altså om det er Meeting Craft, der skaber resultaterne. De har derfor lanceret et eksperiment med navnet **"10 corporations, 10 months, 10,000 people"** – ti virksomheder, ti måneder, ti tusind mennesker. Det er en ærlig erkendelse af, at dokumentationen indtil nu bygger på kundernes egne oplevelser.
+
+**Tallene:** nowhere skriver, at Meeting Craft kan **spare op til 50 procent af tiden og give 10 gange så høj produktivitet**, og at ledere bruger **95 procent af tiden** på møder, forberedelse af møder og møder om møder. Til værterne: Det er nowheres egne tal og påstande – sig det tydeligt, og præsenter dem ikke som forskning.
+
+### 10c. Tid, rum, energi og information
+
+I bogen om nowheres 25 år beskrives fire ting, der betyder noget i ethvert møde:
+
+- **Tid betyder noget.** Fysisk tid er lineær, psykologisk tid er det ikke. Kunsten er at vide, hvornår man skal **sætte farten op, og hvornår man skal sætte den ned**. Det er nøglen til at gå fra at være tidsfattig til tidsrig. Og: Det er langt stærkere at bevæge sig **hen imod noget, man vil skabe**, end **væk fra et problem**, man ikke vil have.
+- **Rum betyder noget.** Hvordan vi bruger rummet, åbner eller lukker for muligheder, relationer og kreativitet. nowhere skriver, at **at sidde omkring et bord er årtier forældet**. I stedet bruger de det, de kalder **circle technology** – at sidde i cirkler: "hjemmegrupper", "arbejdscirkler" og "fælles cirkler".
+- **Energi betyder noget.** Hvordan vi møder op energimæssigt, øger eller mindsker potentialet i et øjeblik. nowhere skriver selv, at det "kan lyde skørt" – men at man skal komme over det.
+- **Information betyder noget.** Information skal ikke bare fylde folk op. Den skal bruges som **fremkaldende input, strategiske kort, forandrende historier** – og der skal være plads til, at folk selv skaber mening.
+
+### 10d. Cirkler i stedet for borde
+
+nowheres **circle technology** beskrives som en enkel, men dyb måde at mødes på, der bygger en **"energetisk beholder"**, skaber psykologisk tryghed og trækker på gruppens **kollektive intelligens**. Ved at lege med mødets form fører de folk gennem forskellige faser af fællesskab og forandring.
+
+Det minder om **Nancy Klines** runder (se nedenfor) og om **consent-runderne** i afsnit 11 – og om **Anita Woolleys** fund om lige taletid.
+
+### 10e. Fra – til
+
+I brochuren om deres konferencer og møder opstiller nowhere en række skift. Blandt andet:
+
+- **Fra** dagsordensstyrede møder domineret af lange præsentationer, der "fortæller og sælger" – **til** forløb, der væver godt indhold sammen med en god menneskelig proces.
+- **Fra** ledere, der dominerer og fylder rummet – **til** ledere, der holder rummet.
+- **Fra** at tale om, hvad der skal ændres – **til** at få en levet oplevelse af forandringen i selve rummet.
+- **Fra** at fylde folk op med mere information – **til** at give plads til, at folk selv skaber mening og tager ejerskab.
+- **Fra** at tale om psykologisk tryghed – **til** rum, hvor ærlig og direkte feedback er normen.
+- **Fra** teaterstole eller borde – **til** cirkler.
+- **Fra** at tænke frem *til* mødet – **til** at tænke *gennem* mødet: hvad skal ske før, under og efter.
+
+Og en enkel detalje fra deres materiale: Møder har en **planlagt starttid og en planlagt sluttid** – og begge skal holdes.
+
+### 10f. Sådan lærer ledere det
+
+nowhere underviser i praksissen i forløb med **praksisperioder** imellem, så lederne øver sig i deres egne møder:
+
+- For topledere: fire moduler af to dage – **Being Catalytic** (lederen selv), **Holding Space**, **Thinking Together** og **Meeting Craft®** – med 4-6 ugers praksis imellem.
+- For mellemledere og førstelinjeledere: seks virtuelle moduler, som de kalder **akkorder** – **Turn Up** (energi), **Relate** (tryghed og relationer), **Think** (at tænke sammen), to moduler om **Meet** (mødets begyndelse og afslutning, og forskellige mødetyper) og **Lead**.
+
+Det er værd at hæfte sig ved, at nowhere ikke sælger et nyt mødeformat. En leder fra en international alliance siger i deres materiale: *"The work ahead isn't about enforcing a new meeting format. It's about raising the cultural standard for how we spend time together, one intentional conversation at a time."*
 
 ### 11. Amazon: Stilhed i starten af mødet
 
@@ -189,6 +317,8 @@ Spørgsmålet til lytterne: Er jeres møder frie – eller bare ustrukturerede? 
 3. Prøv stille læsning i starten af ét møde i stedet for en præsentation.
 4. Slut altid med: Hvad besluttede vi, hvem gør hvad, og hvad fortæller vi videre?
 5. Læg mærke til energien. Hvornår stiger den, og hvornår falder den?
+6. Find ud af, hvilken type møde du holder: Skal I dele information, løse et problem, skabe noget nyt eller beslutte? Design mødet derefter.
+7. Prøv at holde stilheden lidt længere, næste gang der opstår en pause.
 
 **Hvis du deltager i møder:**
 1. Spørg mødeindkalderen: Hvad er formålet – og hvad er min rolle?
@@ -218,6 +348,11 @@ Til værterne: Fortæl til sidst, hvad afsnittet bygger på – som en anbefalin
 - Nick Udall: "Holding Space – the high art of leadership" (nowhere, 2018).
 - Nick Udall: "Transforming the way we meet".
 - nowhere: now-here.com · nickudall.com.
+- nowhere: *the HUM – Celebrating 25 years of nowhere* (bog om firmaets praksis og historie).
+- nowhere: *The Way of the Catalyst – The Little Book of Catalysis*.
+- nowhere: *meeting craft®* (brochure), *Catalytic conferences, workshops & meetings*, *Catalyst Curriculum*, *Breakthrough Dojo*, *Your purpose* og firmabrochuren.
+- nowhere: *The Way of nowhere – 8 questions for releasing creative potential* (HarperCollins, 2008).
+- Graham Wallas: *The Art of Thought* (1926) – den klassiske model for den kreative proces.
 
 **Bøger om møder og tænkning**
 - Steven Rogelberg: *The Surprising Science of Meetings* (2019).
