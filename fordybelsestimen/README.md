@@ -29,7 +29,7 @@ Undertitel: *Ledelse, teams og motivation – fra bøgerne til mandag morgen.*
 
 
 ## Afsnit
-1. `afsnit-01/` – Hvorfor gode teams går i stykker (Lencionis fem dysfunktioner). `Fordybelsestimen-01-Samlet.md` uploades; `dele/` er kapitlerne hver for sig.
+1. `afsnit-01/` – Hvorfor gode teams går i stykker (Lencionis fem dysfunktioner). `Fordybelsestimen-01-Hvorfor-gode-teams-gaar-i-stykker.md` uploades; `dele/` er kapitlerne hver for sig.
 11. `afsnit-11/` – Hvem bestemmer? Consent-beslutninger og selvledelse.
 12. `afsnit-12/` – Medledelse – når teamet er chef.
 13. `afsnit-13/` – Founder-drevne virksomheder.
