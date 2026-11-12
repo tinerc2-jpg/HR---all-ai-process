@@ -5,3 +5,4 @@ Status: Afsnit 1, 2 (ansvar), 11 (consent), 12 (medledelse), 13 (founder-drevne)
 Åbne opgaver: Månedlig opgave: på pause, skal omskrives.
 Hver gang: beskrivende filnavn + egen NotebookLM-instruktion (i `NotebookLM-instruktioner.md` og i chatten) + fil til download.
 Næste skridt: Afsnit 3 (Motivation – Pink, Deci & Ryan).
+Podcast-feed (12. nov.): Vercel-projekt `fordybelsestimen-feed` (Tines konto). Hemmelig sti + MP3'er ligger kun på Vercel, IKKE i repo (offentligt). Tine downloader MP3 fra NotebookLM og sender den; Claude lægger den i feedet. Tine lytter i podcast-app via CarPlay.
