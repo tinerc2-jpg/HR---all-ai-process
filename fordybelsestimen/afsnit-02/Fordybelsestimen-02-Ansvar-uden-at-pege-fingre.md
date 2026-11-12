@@ -95,13 +95,63 @@ Den amerikanske organisationsforsker **Robert Sutton** fra Stanford University �
 
 Det er præcis det, vi så i krogen: Alle vidste, at projektet var forsinket. Ingen gjorde noget ved det.
 
-### 7. Opsamling på kapitel 1
+### 7. Over eller under stregen
+
+Et af de første bøger, der gjorde ansvar til et selvstændigt ledelsesemne, er **"The Oz Principle"** fra 1994, skrevet af de amerikanske konsulenter **Roger Connors, Tom Smith og Craig Hickman**. Titlen henviser til fortællingen om troldmanden fra Oz, hvor personerne rejser langt for at få noget, de i virkeligheden allerede har: mod, hjerte og forstand.
+
+Forfatterne tegner en enkel model: en vandret streg. **Under stregen** er det, de kalder offerspillet. Her lyder sætningerne: "Det er ikke mit job." "Ingen fortalte mig det." "Vi venter og ser." "Det er de andre afdelingers skyld." **Over stregen** er der fire trin:
+
+1. **See it** – se virkeligheden, som den er, også når den er ubehagelig.
+2. **Own it** – tag ejerskab for din del af den.
+3. **Solve it** – spørg: "Hvad mere kan jeg gøre?"
+4. **Do it** – gør det, du har sagt.
+
+Forfatterne understreger, at alle mennesker er under stregen en gang imellem. Det er menneskeligt at blive frustreret og pege på andre. Spørgsmålet er, hvor længe man bliver der. Det er en konsulentmodel, ikke forskning – men den giver et fælles sprog, som mange teams bruger. Det kan være så enkelt som, at en kollega på mødet spørger: "Er vi over eller under stregen lige nu?"
+
+Modellen minder om et begreb fra psykologien. Den amerikanske psykolog **Julian Rotter** beskrev i 1966 det, der kaldes **locus of control** – på dansk nogle gange *kontrolplacering*. Nogle mennesker oplever, at det, der sker, primært er styret af dem selv – en indre kontrolplacering. Andre oplever, at det primært er styret af omstændighederne, af held eller af andre – en ydre kontrolplacering. Rotters forskning handler om personlighed, men i et team kan man se det som en kultur: Taler vi mest om det, vi selv kan påvirke – eller mest om det, andre burde gøre?
+
+### 8. Hvad luftfarten lærte os
+
+Der er en branche, der har arbejdet med ansvar og åbenhed mere systematisk end de fleste: **luftfarten**.
+
+I 1977 kolliderede to jumbojets på startbanen i lufthavnen på Tenerife. Det er stadig den værste ulykke i luftfartens historie. Undersøgelserne pegede blandt andet på kommunikationen i cockpittet: Der var besætningsmedlemmer, der var i tvivl, men som ikke sagde det tydeligt nok til en erfaren og respekteret kaptajn.
+
+Ulykken var en af årsagerne til, at luftfarten i 1980'erne udviklede **Crew Resource Management** – en træning i samarbejde, kommunikation og beslutninger i cockpittet. Et af de vigtigste elementer er, at **alle** i besætningen har ansvar for at sige fra, når de ser noget, der kan være farligt – også selvom det er den yngste andenpilot, der skal sige det til en kaptajn med 30 års erfaring. Og kaptajnen har ansvar for at lytte.
+
+Det er præcis det, der manglede i vores ledergruppe fra krogen. Det handler ikke om rang. Det handler om, at den, der ser problemet, også har ansvaret for at sige det.
+
+Den britiske forfatter **Matthew Syed** har skrevet om netop dette i bogen **"Black Box Thinking"** fra 2015. Titlen henviser til flyenes sorte bokse, der optager alt, hvad der sker. Når et fly forulykker, bliver boksen fundet og analyseret, og læringen bliver delt med hele branchen. Syed sammenligner det med brancher, hvor fejl oftere bliver skjult eller forklaret væk. Hans pointe er, at det er systemer, der gør det trygt at indrømme fejl, som skaber de største forbedringer. Bogen er en journalistisk gennemgang, ikke selvstændig forskning – men den bygger på mange velkendte eksempler.
+
+### 9. Dansk arbejdskultur – en styrke og en fælde
+
+Hvordan ser det ud i Danmark? Dansk arbejdsliv bliver ofte beskrevet med ord som **høj tillid, flade hierarkier og stor selvstændighed**. Mange medarbejdere er vant til at få et ansvarsområde og selv finde ud af, hvordan opgaven skal løses. Det er en stor styrke. Det giver ejerskab og motivation – noget, vi vender tilbage til i næste afsnit om motivation.
+
+Men der kan også være en fælde. Når kulturen er præget af tillid og konsensus, kan det føles ekstra grænseoverskridende at sige til en kollega: "Du holdt ikke din aftale." Man vil ikke virke kontrollerende. Man vil ikke ødelægge den gode stemning. Og så kan tilliden ende med at blive en undskyldning for ikke at følge op.
+
+Lencioni ville sige, at det er en misforståelse. Ægte tillid er netop det, der gør det muligt at sige de svære ting. Hvis tilliden ikke kan holde til, at man siger sandheden til hinanden, er det måske ikke tillid – men høflighed.
+
+### 10. Hvilket team er dit første team?
+
+Der er en sidste idé fra Lencioni, som forklarer, hvorfor ledergrupper ofte har særligt svært ved ansvar. Han kalder den **det første team** – på engelsk *the first team*.
+
+De fleste ledere føler sig mest knyttet til det team, de selv leder. Salgsdirektøren føler sig som en del af salgsafdelingen. IT-chefen føler sig som en del af IT. Ledergruppen er noget, man går til en gang om ugen, for at repræsentere sit eget område.
+
+Lencioni siger, at det er forkert prioriteret. For en leder skal **ledergruppen være det første team** – det team, man har sin vigtigste loyalitet over for. Ellers bliver ledermøderne en slags forhandling mellem ambassadører, hvor hver især forsvarer sit eget område og ikke blander sig i de andres.
+
+Og det er netop her, ansvaret forsvinder. Hvis IT-projektet i vores krog bliver set som "IT's problem", så føler salgsdirektøren og økonomichefen ikke, at det er deres ansvar at sige noget. Men hvis ledergruppen er deres første team, så er IT-projektet **alles** projekt. Så er tavsheden et svigt over for holdet.
+
+I sporten er det let at forstå. En forsvarsspiller kan ikke sige, at målet, holdet lukkede ind, var målmandens problem. Hele holdet taber kampen. Lencionis pointe er, at en ledergruppe skal tænke på samme måde.
+
+### 11. Opsamling på kapitel 1
 
 - Ansvar er fjerde trin i Lencionis pyramide. Det kræver tillid, konflikt og klare beslutninger først.
 - Vi undgår ansvar, fordi det er ubehageligt – og fordi ansvaret forsvinder, når mange deler det (Darley og Latané).
 - Ansvar er ikke skyld. Skyld kigger bagud, ansvar kigger fremad.
 - Psykologisk tryghed og høje krav er partnere, ikke modsætninger (Edmondson).
 - I de stærkeste teams holder kollegerne standarden – ikke kun chefen (All Blacks, Kerr).
+- Over eller under stregen: se det, ej det, løs det, gør det (Connors, Smith og Hickman, 1994).
+- I luftfarten har alle ansvar for at sige fra – uanset rang (Crew Resource Management; Syed, 2015).
+- For en leder skal ledergruppen være det første team (Lencioni).
 
 ---
 
@@ -194,7 +244,45 @@ Det er Lencionis kollegiale ansvar i sin reneste form. Træneren kan sætte ramm
 
 Og det modsatte kender vi også fra sporten: Hold, hvor stjernespillerne får lov at slippe for de kedelige opgaver. Hvor reglerne gælder for de unge, men ikke for de store navne. Her smuldrer kulturen hurtigt. Det samme gælder i virksomheder. Hvis den dygtigste sælger får lov at behandle kollegerne dårligt, fordi tallene er gode, så sender det et signal til alle andre om, hvad der faktisk betyder noget. Robert Sutton kalder det i "The No Asshole Rule" en af de dyreste fejl, en leder kan begå.
 
-### 9. Opsamling på kapitel 2
+### 9. Retfærdig kultur – når fejl ikke er det samme som svigt
+
+En leder, der vil skabe både tryghed og ansvar, står med et praktisk spørgsmål: Hvad gør jeg, når nogen har lavet en fejl? Skal der være en konsekvens, eller ej?
+
+Her har sikkerhedsforskningen et nyttigt svar. Den britiske psykolog **James Reason** beskrev i bogen **"Managing the Risks of Organizational Accidents"** fra 1997 det, han kaldte en **retfærdig kultur** – på engelsk *just culture*. Senere har den hollandsk-australske sikkerhedsforsker **Sidney Dekker** uddybet tanken i bogen **"Just Culture"**, første gang udgivet i 2007.
+
+Grundideen er, at man skal skelne mellem forskellige slags fejl:
+
+- **En menneskelig fejl** – en smutter, en forglemmelse. Det sker for alle. Her er svaret at se på systemet: Hvordan gør vi det sværere at lave den fejl igen?
+- **En risikabel adfærd** – man har taget en genvej, fordi man troede, det var okay, eller fordi alle andre gjorde det. Her er svaret at coache og at gøre risikoen synlig.
+- **Hensynsløs adfærd** – man har bevidst ignoreret en tydelig og væsentlig risiko. Her er det rimeligt med en konsekvens.
+
+Pointen er, at hvis man straffer alle fejl ens, så lærer folk at skjule dem. Og hvis man aldrig reagerer, heller ikke på hensynsløs adfærd, så forsvinder standarden. En retfærdig kultur er hverken blød eller hård. Den er **præcis**.
+
+Det er en god model for ledere og HR, også uden for hospitaler og lufthavne. Når en medarbejder har lavet en fejl, er det første spørgsmål ikke "hvem?", men "hvad skete der – og hvorfor gav det mening for personen at gøre sådan i situationen?"
+
+### 10. Skyldfri evalueringer
+
+Inden for IT har man udviklet en praksis, der bygger på den samme tanke: den **skyldfri evaluering** – på engelsk *blameless post-mortem*. Når et system er gået ned, mødes teamet bagefter og gennemgår, hvad der skete. Reglen er, at man beskriver forløbet ærligt og detaljeret, men at formålet er læring, ikke at finde en syndebuk.
+
+Ingeniøren **John Allspaw** beskrev praksissen i et kendt blogindlæg fra 2012, da han var teknisk chef i e-handelsfirmaet Etsy. Hans argument var, at hvis en ingeniør risikerer straf for at fortælle, hvad der skete, så får man aldrig det fulde billede – og så gentager fejlen sig. Google har senere beskrevet en lignende praksis i bogen **"Site Reliability Engineering"** fra 2016, skrevet af en gruppe af virksomhedens egne ingeniører.
+
+Det interessante er, at skyldfri ikke betyder ansvarsfri. Tværtimod. I en skyldfri evaluering tager folk typisk **mere** ansvar, fordi de tør fortælle, hvad de selv gjorde. Og evalueringen slutter med konkrete aftaler: Hvem retter hvad – og hvornår følger vi op?
+
+### 11. Bill Walsh: Standarden kommer før resultatet
+
+Lad os tage et eksempel mere fra sporten. **Bill Walsh** var cheftræner for amerikansk fodbold-holdet San Francisco 49ers fra 1979 og førte et af ligaens dårligste hold til tre mesterskaber i løbet af 1980'erne. Kort før sin død skrev han sammen med sin søn Steve Jamison og Craig Walsh bogen **"The Score Takes Care of Itself"**, udgivet i 2009.
+
+Walsh beskriver det, han kaldte sin **præstationsstandard** – *standard of performance*. Den handlede ikke primært om at vinde kampe. Den handlede om, hvordan alle i organisationen skulle arbejde – ned til de mindste detaljer. Hvordan man svarede telefonen. Hvordan omklædningsrummet så ud. Hvordan man forberedte sig. Hvordan man behandlede hinanden. Hans pointe var, at hvis alle tog ansvar for standarden hver dag, så ville resultaterne komme af sig selv. Deraf bogens titel: Scoren tager sig af sig selv.
+
+Det er Walshs egen fortælling, og man skal huske, at mange trænere med gode principper aldrig vinder noget. Men tankegangen ligner Lencionis og All Blacks: Ansvar er ikke noget, man tager, når resultatet er dårligt. Det er noget, man udøver i de små ting hver dag.
+
+### 12. Det dårlige vejer tungere
+
+Hvorfor er det så vigtigt at reagere på dårlig adfærd – også når den kun kommer fra én person? En del af forklaringen kommer fra psykologien. I 2001 offentliggjorde **Roy Baumeister** og kolleger en stor oversigtsartikel med titlen **"Bad Is Stronger Than Good"** i tidsskriftet *Review of General Psychology*. De gennemgik forskning fra mange områder og konkluderede, at negative oplevelser, indtryk og relationer generelt påvirker os stærkere end positive.
+
+Det passer med Felps' forskning om rådne æbler, som vi kommer til i næste kapitel, og med Robert Suttons pointe i "The No Asshole Rule". En enkelt kollega, der konsekvent ikke holder sine aftaler eller behandler andre dårligt, fylder mere i teamets bevidsthed end flere kolleger, der gør det godt. Derfor er det ikke småligt at tage det op. Det er at beskytte teamet.
+
+### 13. Opsamling på kapitel 2
 
 - Den vigtigste form for ansvar går mellem kolleger, ikke kun fra chef til medarbejder (Lencioni, *The Five Dysfunctions*, 2002, og *The Advantage*, 2012).
 - Lederen skal være den sidste instans – men også gå forrest og tage de svære samtaler (Lencioni, *The Motive*, 2020).
@@ -202,6 +290,9 @@ Og det modsatte kender vi også fra sporten: Hold, hvor stjernespillerne får lo
 - Ekstremt ejerskab: Start med at spørge, hvad du selv kunne have gjort anderledes (Willink og Babin, 2015).
 - Google fandt, at tryghed og pålidelighed hører sammen (Project Aristotle, 2015).
 - Der er en tredje vej mellem at tie og at angribe: tal tidligt, roligt og konkret (Patterson m.fl., *Crucial Accountability*, 2013).
+- En retfærdig kultur skelner mellem smutter, risikabel adfærd og hensynsløshed (Reason, 1997; Dekker, 2007).
+- Skyldfri evalueringer giver mere ansvar, ikke mindre (Allspaw, 2012).
+- Standarden i de små ting kommer før resultatet (Bill Walsh, 2009).
 
 ---
 
@@ -266,7 +357,72 @@ Der er et udtryk, som ofte bliver brugt i ledelseslitteraturen, og som passer go
 
 Hvis en leder siger, at teamet har høje standarder, men lader det passere, når nogen ikke lever op til dem, så er det ikke standarderne, der tæller. Det er det, lederen gør. Medarbejderne lærer ikke af det, der står i værdigrundlaget. De lærer af det, der sker – og det, der ikke sker.
 
-### 7. Hvad kan du gøre på mandag?
+### 7. Et øjeblik med ærlighed: teamets effektivitetsøvelse
+
+I "The Five Dysfunctions of a Team" beskriver Lencioni en øvelse, som direktøren Kathryn bruger med sin ledergruppe. Han kalder den **teamets effektivitetsøvelse** – *team effectiveness exercise*. Den er enkel:
+
+- Hvert medlem af teamet skriver to ting om hver af de andre: **Den vigtigste ting, personen bidrager med til teamet.** Og **den vigtigste ting, personen kunne gøre anderledes for at gøre teamet bedre.**
+- Så tager man én person ad gangen. Først hører personen alle de positive bidrag. Derefter hører personen alle forbedringspunkterne.
+- Personen må gerne stille opklarende spørgsmål, men skal ikke forsvare sig.
+
+Lencioni beskriver i fortællingen, hvordan øvelsen er ubehagelig i starten – og hvordan den bagefter giver teamet en ny åbenhed. Det er en fortælling, ikke et studie, men øvelsen bliver brugt af mange teams. Pointen er, at den gør kollegial feedback til noget, man har lov til – fordi alle gør det, og fordi det sker i en fast ramme.
+
+Et par gode råd, hvis man vil prøve den: Gør det først, når der er et grundlag af tillid. Lad en erfaren facilitator lede den første gang. Og husk, at det, der bliver sagt, er gaver – ikke domme.
+
+### 8. Evaluering efter handling
+
+En anden metode, der er værd at kende, kommer fra den amerikanske hær, som i 1970'erne udviklede det, der hedder **After Action Review** – en evaluering efter handling. Den er siden blevet brugt i mange virksomheder og hospitaler. Metoden er bygget op om fire enkle spørgsmål:
+
+1. Hvad havde vi planlagt skulle ske?
+2. Hvad skete der faktisk?
+3. Hvorfor var der forskel?
+4. Hvad gør vi anderledes næste gang?
+
+Det smukke ved de fire spørgsmål er, at de flytter fokus fra personer til forløb. Man kan tale om afvigelser uden at pege fingre. Og fordi man gør det efter **hver** vigtig opgave – ikke kun når noget er gået galt – bliver det en vane i stedet for en retssag.
+
+Mange sportshold gør noget lignende med videoanalyse efter kampene. Spillerne ser deres egne situationer igen, sammen med trænerne og holdkammeraterne. Det er ikke altid behageligt at se sig selv lave en fejl på storskærm. Men det er en del af kulturen, og det gælder for alle – også stjernerne.
+
+### 9. Sådan lyder en ansvarssamtale
+
+Lad os gøre det helt konkret. Forestil dig, at du er leder af et salgsteam. En af dine erfarne medarbejdere, Jonas, har for tredje gang ikke opdateret kundesystemet inden ugemødet. Resten af teamet har mærket det, fordi de mangler overblikket.
+
+En samtale under stregen kunne lyde sådan her: "Det er simpelthen ikke i orden, Jonas. Du ved godt, hvor vigtigt det er. Jeg er træt af at skulle sige det."
+
+En samtale over stregen – inspireret af "Crucial Accountability" og Kim Scott – kunne lyde sådan her: "Jonas, jeg vil gerne tale om kundesystemet. Vi aftalte, at det skulle være opdateret inden mandagsmødet. De sidste tre uger har det ikke været det, og det betyder, at de andre ikke kan planlægge deres besøg. Jeg er nysgerrig på, hvad der står i vejen?"
+
+Måske svarer Jonas, at systemet er tungt at bruge fra telefonen, og at han er ude hos kunder hele fredagen. Så er det et **evneproblem** – eller rettere et rammeproblem – og I kan finde en løsning sammen. Måske svarer han, at han ikke synes, det er vigtigt. Så er det et **motivationsproblem**, og samtalen skal handle om hvorfor: hvad det betyder for kollegerne og for kunderne.
+
+Uanset hvad slutter samtalen med en tydelig aftale – og en opfølgning. Ikke fordi man ikke stoler på Jonas, men fordi det er sådan, man tager hinanden alvorligt.
+
+### 10. Ansvar og roller – en advarsel om skemaer
+
+Mange organisationer forsøger at skabe ansvar gennem skemaer. Et kendt værktøj er **RACI-modellen**, hvor man for hver opgave beskriver, hvem der er *Responsible* (udfører), *Accountable* (står til ansvar), *Consulted* (bliver spurgt) og *Informed* (bliver orienteret). Det kan være nyttigt, især i store projekter med mange parter.
+
+Men der er en fælde. Et skema skaber ikke ansvar af sig selv. Man kan have den flotteste ansvarsfordeling og stadig have et team, hvor ingen siger noget, når det går galt. Omvendt kan et team med stærk tillid og klare aftaler fungere fint uden skemaer.
+
+Lencioni ville sige, at skemaet er det nemme. Samtalerne er det svære. Brug gerne værktøjerne – men lad dem ikke blive en erstatning for det, de skal understøtte.
+
+### 11. Ansvar, når man ikke sidder sammen
+
+Meget af det, vi har talt om, forudsætter, at man ser hinanden. Men i mange organisationer arbejder folk i dag hjemmefra en del af ugen, eller teamet er spredt over flere lande. Hvad betyder det for ansvar?
+
+Der er særligt tre ting, der bliver sværere. For det første ser man mindre. De små tegn på, at en kollega er presset eller kørt fast, går lettere tabt. For det andet bliver de små, uformelle samtaler sjældnere – dem, hvor man ved kaffemaskinen siger: "Hvordan går det egentlig med tilbuddet?" For det tredje bliver det lettere at gemme sig. Man kan slukke kameraet, svare kort på chat og undgå den ubehagelige samtale.
+
+Det betyder ikke, at ansvar er umuligt i hybride teams. Men det kræver mere **bevidsthed**. Klare aftaler bliver endnu vigtigere, fordi man ikke kan rette misforståelser hen over skrivebordet. Synlige mål og fælles oversigter bliver vigtigere, fordi de erstatter noget af det, man før så med egne øjne. Og de svære samtaler bør ikke tages på mail eller chat. Tonen forsvinder i skrift, og en kort besked kan let blive læst som en anklage. Tag dem i stedet ansigt til ansigt – eller i det mindste på video.
+
+Både Lencionis korte daglige tjek-in og den faste ugentlige rytme kan med fordel bruges her. Det er netop de faste, lidt kedelige rutiner, der holder ansvaret levende, når man ikke mødes tilfældigt.
+
+### 12. HR's systemer – hjælper de eller spænder de ben?
+
+En sidste ting, der er værd at nævne for dem, der arbejder med HR: Organisationens egne systemer kan både støtte og undergrave en ansvarskultur.
+
+Hvis bonusser og belønninger kun er knyttet til den enkeltes resultater, sender det et signal om, at det er ens eget område, der tæller – ikke teamets. Lencioni peger i "The Five Dysfunctions of a Team" på netop det som en årsag til den femte dysfunktion: at den enkelte sætter egen status og eget område over teamets resultater.
+
+Hvis medarbejderudviklingssamtalen er den eneste gang om året, man taler om præstationer, så kommer feedbacken for sjældent og for sent. Og hvis lederuddannelsen handler om strategi og økonomi, men aldrig om at tage en svær samtale, så lærer lederne ikke det, der er sværest.
+
+Spørgsmålet for HR er derfor: Belønner vores systemer det, vi siger, vi vil have? Belønner vi teamets resultat – eller kun den enkeltes? Giver vi lederne værktøjer og træning til de svære samtaler? Og bakker vi lederne op, når de tager dem?
+
+### 13. Hvad kan du gøre på mandag?
 
 Lad os samle det i konkrete greb.
 
@@ -288,7 +444,7 @@ Lad os samle det i konkrete greb.
 2. **Byg ansvar ind i rytmen:** klare mål, faste opfølgninger, synlige scorecards.
 3. **Træn både ledere og medarbejdere** i at give hinanden ærlig og respektfuld feedback. Kollegialt ansvar kræver, at alle kan det.
 
-### 8. Afslutning
+### 14. Afslutning
 
 Lad os vende tilbage til ledergruppen fra begyndelsen. Alle vidste, at projektet var i problemer. Ingen sagde det. Hvad skulle der have været til for, at én af dem havde sagt det højt på mødet?
 
@@ -317,12 +473,23 @@ I næste afsnit af Fordybelsestimen handler det om **motivation** – hvad der e
 - Kim Scott: *Radical Candor* (2017). Bog.
 - James Kerr: *Legacy* (2013). Bog om All Blacks – fortælling.
 - Alex Ferguson & Michael Moritz: *Leading* (2015). Erindringer om ledelse.
+- Roger Connors, Tom Smith & Craig Hickman: *The Oz Principle* (1994). Konsulentmodel.
+- Matthew Syed: *Black Box Thinking* (2015). Journalistisk bog.
+- James Reason: *Managing the Risks of Organizational Accidents* (1997). Bog, sikkerhedsforskning.
+- Sidney Dekker: *Just Culture* (2007). Bog, sikkerhedsforskning.
+- Bill Walsh m.fl.: *The Score Takes Care of Itself* (2009). Erindringer om ledelse.
+- Betsy Beyer m.fl. (Google): *Site Reliability Engineering* (2016). Praksisbog.
 
 **Forskning**
 - John M. Darley & Bibb Latané (1968): forsøg om ansvarsforflygtigelse (*diffusion of responsibility*), *Journal of Personality and Social Psychology*.
 - Will Felps, Terence R. Mitchell & Eliza Byington (2006): "How, When, and Why Bad Apples Spoil the Barrel", *Research in Organizational Behavior*.
 - Amy C. Edmondson: forskning i psykologisk tryghed og fejl på hospitalsafdelinger (1990'erne).
+- Julian B. Rotter (1966): locus of control, *Psychological Monographs*.
+- Roy F. Baumeister m.fl. (2001): "Bad Is Stronger Than Good", *Review of General Psychology*.
 
 **Virksomheder**
 - Google: Project Aristotle (2012–2015), beskrevet på re:Work (2015) og af Charles Duhigg i *New York Times Magazine* (2016). Intern undersøgelse.
+- John Allspaw (Etsy): blogindlægget "Blameless PostMortems and a Just Culture" (2012). Praksiserfaring.
+- Luftfarten: Crew Resource Management, udviklet i 1980'erne efter bl.a. Tenerife-ulykken (1977).
+- Den amerikanske hær: After Action Review (1970'erne). Praksismetode.
 - Amazon: lederprincipper, bl.a. *ownership*, beskrevet i Jeff Bezos' aktionærbreve. Virksomhedens egne principper.
