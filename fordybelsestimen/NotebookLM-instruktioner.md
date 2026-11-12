@@ -16,3 +16,6 @@ Podcasten hedder Fordybelsestimen. Gennemgå de tre kapitler i rækkefølge i é
 
 ## Afsnit 14 – Møder, Nick Udall og kunsten at holde rummet
 Podcasten hedder Fordybelsestimen. Gennemgå de tre kapitler i rækkefølge i én lang samtale. Giv Nick Udall og nowhere god plads: holding space, the creative rollercoaster, Secret Source og Meeting Craft. Sig at nowheres tal og påstande er deres egne, ikke forskning, og opfind ikke detaljer, der ikke står i kilden. Diskutér gerne forskellen mellem nowhere og Rogelberg om færre møder. Nævn altid kilden ved navn og årstal. Slut med afsnittets kilder. Enkelt sprog til voksne, rolig og varm tone, ingen fjollede jokes.
+
+## Afsnit 2 – Ansvar, uden at pege fingre
+Podcasten hedder Fordybelsestimen. Gennemgå de tre kapitler i rækkefølge i én lang samtale. Brug krogen om ledergruppen, hvor alle vidste det, men ingen sagde det, som rød tråd. Forklar forskellen på ansvar og skyld, Lencionis kollegiale ansvar og Robert Suttons gode og dårlige chefer, og tag god tid til Edmondson, All Blacks, Ferguson og Google. Slut med de konkrete greb til mandag. Sig om det er forskning, en bog eller en fortælling, og opfind ikke tal. Nævn altid kilden ved navn og årstal. Slut med afsnittets kilder. Enkelt sprog til voksne, rolig og varm tone, ingen fjollede jokes.
